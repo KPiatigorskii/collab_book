@@ -29,7 +29,7 @@ the simpsons
             a.i Don’t forget to work on a side branch (never commit or do any work on the main/master branch or any “release-” branch);
     7 Using VS Code:
     KONI C HUYAMI00000283746283746283746283764287364283746283746283746
-    KONI C HUYAMI
+    KONI C HUYAMI SHIT
 
     ---
     -
