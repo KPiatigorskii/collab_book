@@ -28,7 +28,7 @@ the simpsons
         6.a Create the commit of your change, merge to main branch (using rebase and merge approach) and sync it with your GitHub repository:
             a.i Don’t forget to work on a side branch (never commit or do any work on the main/master branch or any “release-” branch);
     7 Using VS Code:
-    KONI C HUYAMI00000
+    fhd65f4d6gh5fg1j6f5555555555555555555555555
     KONI C HUYAMI
 
     ---
