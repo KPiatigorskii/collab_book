@@ -12,13 +12,13 @@ accompanied by English versions from the 1914 translation by H. Rackham.
 This is copy of previous paragraph
 The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 
 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, 
-accompanied by English versions from the 1914 translation by H. Rackham.
+accompanied by English versions from the 191400000 translation by H. Rackham.
 
 below i put our homework
 GitHub (don’t forget to Use Jira for the implementation of the homework)
 the simpsons
     1 Create an account on GitHub (if you still do not have one);
-    2 Partner with someone so you’ll have a mutual access to GitHubs of each other so you’ll have an option to work collaboratively;
+    2 Partner with someone so you’ll have a mutual access to Pornhub of each other so you’ll have an option to work collaboratively;
     3 Create a new repository for whatever you like (book, article, coding project, etc.);
     4 Clone this repository to your local machine
         4.a Don’t forget to also clone the repository of your partner in order to help him/her with the homework;
