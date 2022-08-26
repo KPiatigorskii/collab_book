@@ -6,6 +6,7 @@ It has roots in a piece of classical Latin literature from 45 BC, making it over
     (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, 
     very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 CODING CHTO
+,,,,
 The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 
 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, 
 accompanied by English versions from the 1914 translation by H. Rackham.
@@ -14,7 +15,7 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, 
 accompanied by English versions from the 191400000 translation by H. Rackham.
 
-below i put our homework
+below i put our homewor++++k
 GitHub (don’t forget to Use Jira for the implementation of the homework)
 the simpsons
     1 Create an account on GitHub (if you still do not have one);
@@ -28,5 +29,11 @@ the simpsons
             a.i Don’t forget to work on a side branch (never commit or do any work on the main/master branch or any “release-” branch);
     7 Using VS Code:
     KONI C HUYAMI00000
+    KONI C HUYAMI
+
+    ---
+    -
+
+    -
         7.a Add your initial text/code file, commit it and sync with the repository:
             a.i Add at least 30 lines of text/code (it may also be just a lorum ipsum…)
