@@ -27,6 +27,6 @@ the simpsons
         6.a Create the commit of your change, merge to main branch (using rebase and merge approach) and sync it with your GitHub repository:
             a.i Don’t forget to work on a side branch (never commit or do any work on the main/master branch or any “release-” branch);
     7 Using VS Code:
-    KONI C HUYAMI
+    KONI C HUYAMI00000
         7.a Add your initial text/code file, commit it and sync with the repository:
             a.i Add at least 30 lines of text/code (it may also be just a lorum ipsum…)
